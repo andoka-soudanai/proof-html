@@ -1,0 +1,17 @@
+name: proof-html
+id: ari:cloud:compass:73c27ebd-147d-438f-9621-81d472c666b0:component/9e9bd950-6fcb-4b39-8b4c-3b029381aa3f/84ac6cd7-8b21-4328-b11c-e3b003ab381c
+description: A GitHub Action to validate HTML, check links, and more ✅
+configVersion: 1
+typeId: APPLICATION
+ownerId: ari:cloud:identity::team/00a9f17a-efa3-4606-944d-9fff9b43f271
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/andoka-soudanai/proof-html
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
